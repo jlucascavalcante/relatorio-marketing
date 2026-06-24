@@ -38,23 +38,9 @@ Gasto por categoria e país; evolução do gasto por ano e país entre 2018 e 20
 
 Dataset baseado no **["Customer Personality Analysis"](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)**, disponível publicamente no Kaggle, com adaptações feitas pela **Data Science Academy (DSA)** para o curso (incluindo a lista de países analisados). O dashboard, a modelagem e as análises foram refeitos de forma independente a partir do material do curso, com exploração de gráficos, formatações e cruzamentos próprios.
 
-## 🖼️ Visualização
-
-**Visão Cliente**
-![Visão Cliente](images/dashboard-cliente.png)
-
-**Visão Comportamento**
-![Visão Comportamento](images/dashboard-comportamento.png)
-
-**Visão Campanhas**
-![Visão Campanhas](images/dashboard-campanhas.png)
-
-**Visão Ponto de Vendas**
-![Visão Ponto de Vendas](images/dashboard-ponto-de-vendas.png)
-
 ## 🔗 Acesse o relatório
 
-`(https://app.powerbi.com/groups/me/reports/44be1ecd-62ea-4c48-8c93-88a75a50897a/7687c5be0b1a0280779a?experience=power-bi)`
+`[Acesse o dashboard](https://app.powerbi.com/groups/me/reports/44be1ecd-62ea-4c48-8c93-88a75a50897a/7687c5be0b1a0280779a?experience=power-bi)`
 
 ## 📌 Limitações e próximos passos
 
