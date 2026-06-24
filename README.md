@@ -33,7 +33,8 @@ Gasto por categoria e país; evolução do gasto por ano e país entre 2018 e 20
 
 - **Ferramenta:** Power BI Desktop
 - **Modelagem e visualização:** segmentações cruzadas (escolaridade x estado civil), gráficos de dispersão, matrizes e séries temporais
-- **Transformação de dados:** 
+- **Transformação de dados**
+  
 ## 📊 Fonte dos dados
 
 Dataset baseado no **["Customer Personality Analysis"](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)**, disponível publicamente no Kaggle, com adaptações feitas pela **Data Science Academy (DSA)** para o curso (incluindo a lista de países analisados). O dashboard, a modelagem e as análises foram refeitos de forma independente a partir do material do curso, com exploração de gráficos, formatações e cruzamentos próprios.
