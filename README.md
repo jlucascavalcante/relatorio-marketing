@@ -33,7 +33,7 @@ Gasto por categoria e país; evolução do gasto por ano e país entre 2018 e 20
 
 - **Ferramenta:** Power BI Desktop
 - **Modelagem e visualização:** segmentações cruzadas (escolaridade x estado civil), gráficos de dispersão, matrizes e séries temporais
-- **Transformação de dados**
+- **Transformação de dados (Power Query): renomeação de colunas, tratamento de valores nulos/ausentes, ajuste de tipos de dado, remoção de colunas não utilizadas e criação de coluna(s) calculada(s) para apoiar a análise**
   
 ## 📊 Fonte dos dados
 
