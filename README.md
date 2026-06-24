@@ -2,6 +2,10 @@
 
 Dashboard de análise de perfil de clientes e efetividade de campanhas de marketing, com foco em identificar quais segmentos convertem mais e onde direcionar investimento de forma mais eficiente.
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](preview3.png)
+
 ## 🎯 Problema de negócio
 
 Times de marketing costumam distribuir budget de campanha proporcionalmente ao tamanho dos segmentos de clientes — focando nos grupos mais numerosos. Esta análise testa essa premissa: será que o segmento mais numeroso é também o mais eficiente em conversão? Os dados mostram que não, o que tem implicação direta em alocação de orçamento.
