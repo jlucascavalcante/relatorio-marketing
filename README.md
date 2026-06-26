@@ -4,7 +4,7 @@ Dashboard de análise de perfil de clientes e efetividade de campanhas de market
 
 ## 📸 Preview do Dashboard
 
-![Preview do Dashboard](preview3.png)
+![Preview do Dashboard](preview3.1.png)
 
 ## 🎯 Problema de negócio
 
